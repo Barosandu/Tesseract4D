@@ -6,4 +6,6 @@ Just open the .swiftpm file in XCode and run it on the simulator or an iPhone
 
 ## Screenshots
 
-![ss1](https://github.com/Barosandu/Tesseract4D/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-05-01%20at%2022.30.30.png) ![ss2](https://github.com/Barosandu/Tesseract4D/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-05-01%20at%2022.35.45.png)
+![ss1](https://github.com/Barosandu/Tesseract4D/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-05-01%20at%2022.30.30.png) 
+
+![ss2](https://github.com/Barosandu/Tesseract4D/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-05-01%20at%2022.35.45.png)
