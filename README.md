@@ -5,7 +5,7 @@ An app which illustrates the way 4D objects cross our 3D plane. This uses ray-ma
 Just open the .swiftpm file in XCode and run it on the simulator or an iPhone
 
 ## Screenshots
-[<img src="https://github.com/Barosandu/Tesseract4D/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-05-01%20at%2022.30.30.png" width="200" />](https://github.com/Barosandu/Tesseract4D/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-05-01%20at%2022.30.30.png)
+[<img src="https://github.com/Barosandu/Tesseract4D/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-05-01%20at%2022.35.45.png" width="200" />](https://github.com/Barosandu/Tesseract4D/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-05-01%20at%2022.35.45.png)
 
 [<img src="https://github.com/Barosandu/Tesseract4D/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-05-01%20at%2022.30.30.png" width="200" />](https://github.com/Barosandu/Tesseract4D/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-05-01%20at%2022.30.30.png)
 
